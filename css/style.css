@@ -729,7 +729,7 @@ PAGE BANNER
 /*--------------------------
 ABOUT-2
 ---------------------------*/
-#about .img-block {
+#about.img-block {
   position: relative;
   box-shadow: 0 7px 22px rgba(0, 0, 0, 0.08);
 }
@@ -737,7 +737,7 @@ ABOUT-2
 #about .img-block img {
   border: 5px solid #21c87a;
   height:400px;
-  margin-top:70px;
+  margin-top:10px;
 
 }
 

@@ -648,7 +648,7 @@ PAGE BANNER
 -----------------------------*/
 #banner {
   position: relative;
-  background: url("/image/web-development.jpg") no-repeat;
+  background: url("/images/banner-img-5.png") no-repeat;
   background-size: cover;
   padding:120px 0px;
 }
@@ -689,7 +689,7 @@ PAGE BANNER
 
 #banner-3 {
   position: relative;
-  background: url("../images/banner/banner.jpg") no-repeat;
+  background: url("../image/web-development.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -1646,12 +1646,12 @@ CONTACT PAGE
 
 /* Extra Small Devices, Phones */
 @media (max-width: 640px) {
-  #banner{
+  #banner-3{
    position: relative;
-   background: url("/image/web-development.jpg") no-repeat;
-   background-position:center;
-   background-size:100%;
-   margin-top:5px;
+   background: url("../image/web-development.jpg") no-repeat;
+   
+   background-size:cover;
+   
   }
   .line{
     margin-left:30px;

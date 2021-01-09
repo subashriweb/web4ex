@@ -1287,7 +1287,7 @@ CONTACT PAGE
 .map{
   height: 320px;
   width: 320px;
-  border: 8px solid  #21c87a;
+  
   margin-left:10px;
 }
 
@@ -1804,7 +1804,7 @@ CONTACT PAGE
     margin-right: 35px;
     margin-bottom: 40px;
   }
-  #map {
+  .map {
     margin-top: 40px;
   }
   .contact-info-block {

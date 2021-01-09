@@ -1655,6 +1655,10 @@ CONTACT PAGE
    background-size:cover;
    
   }
+  .map{
+    margin-left:20px;
+    margin-right:20px;
+  }
   .line{
     margin-left:30px;
   }

@@ -1284,9 +1284,11 @@ CONTACT PAGE
 /* --------------
     MAP
 -----------------*/
-#map {
-  height: 400px;
-  width: 100%;
+.map{
+  height: 330px;
+  width: 420px;
+  border: 8px solid  #21c87a;
+  margin-left:10px;
 }
 
 /*----------------------

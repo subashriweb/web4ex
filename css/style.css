@@ -1287,8 +1287,8 @@ CONTACT PAGE
 .map{
   height: 320px;
   width: 320px;
-  
-  margin-left:10px;
+  border: 8px solid #21c87a;
+ margin-left:10px;
 }
 
 /*----------------------
@@ -1660,7 +1660,7 @@ CONTACT PAGE
     margin-right:20px;
     height: 320px;
     width: 320px;
-  
+    border: 8px solid #21c87a;
     margin-left:10px;
   }
   .line{

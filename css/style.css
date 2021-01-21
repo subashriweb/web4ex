@@ -449,6 +449,7 @@ PAGE BANNER
   padding: 180px 0px;
   background: url("../images/banner-img-5.png") fixed 50% 50% no-repeat;
   background-size: cover;
+  opacity: 0.7;
 }
 
 
@@ -651,6 +652,7 @@ PAGE BANNER
   background: url("/images/banner-img-5.png") no-repeat;
   background-size: cover;
   padding:120px 0px;
+ 
 }
 
 .banner-content {
@@ -670,7 +672,7 @@ PAGE BANNER
 }
 
 #banner .overlay {
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .banner-contact-form {
@@ -691,12 +693,14 @@ PAGE BANNER
   position: relative;
   background: url("../image/web-development.jpg") no-repeat;
   background-size: cover;
+
 }
 
 #banner-4 {
   position: relative;
   background: url("../images/banner/banner-2.jpg") no-repeat;
   background-size: cover;
+
 }
 
 /*----------------------

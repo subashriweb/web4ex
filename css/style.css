@@ -1663,7 +1663,9 @@ CONTACT PAGE
     margin-left:10px;
   }
   .test{
-   margin-right:0px;
+   margin:0px;
+   padding:0px;
+
   }
   .line{
     margin-left:30px;
